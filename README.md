@@ -32,15 +32,7 @@
 
 ###
 
-<p align="left">From Hong Kong<br><br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I develop my website (WIP)</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/y4kvmxg4vb9x2ewaz83u2umvy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=y4kvmxg4vb9x2ewaz83u2umvy&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="left">From Hong Kong<br><br>- 📚 I suck at coding icl <br>- ⚡ In my free time I develop my website (WIP)</p>
 
 ###
 
