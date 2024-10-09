@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Zack Long (cyk0rr)</h1>
+<h1 align="center">korr (cyk0rr)</h1>
 
 ###
 
