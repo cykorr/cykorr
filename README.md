@@ -26,13 +26,14 @@
 
 <h1 align="center">korr (cyk0rr)</h1>
 
+## About Me
+
+From Hong Kong
+
+*   absolutely ASS at coding, I'm learning though.
+*   In my free time I try and look at other's code and optimize it for my preference.
+*   I code on private repos 90% of the time, so you won't see much here.
 ###
-
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">From Hong Kong<br><br>- absolutely ASS at coding, im learning though. <br>- In my free time I try and look at other's code and optimize it for my preference. </p>
 
 ## My Skills
 
