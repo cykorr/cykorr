@@ -34,28 +34,17 @@
 
 <p align="left">From Hong Kong<br><br>- absolutely ASS at coding, im learning though. <br>- In my free time I try and look at other's code and optimize it for my preference. </p>
 
-###
+## My Skills
 
-<h3 align="left">Language and tools</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 
-###
+## GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-</div>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=cykorr&theme=dark&show_icons=true&count_private=true">
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cykorr&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cykorr&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=cykorr&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=cykorr&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
