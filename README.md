@@ -28,15 +28,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">From Hong Kong<br><br>- absolutely ASS at coding, im learning though. <br>- ⚡ In my free time I try and look at others code and optimize it for my prefrence. </p>
+<p align="left">From Hong Kong<br><br>- absolutely ASS at coding, im learning though. <br>- In my free time I try and look at other's code and optimize it for my preference. </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
