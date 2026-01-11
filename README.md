@@ -49,3 +49,8 @@ From Hong Kong
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=cykorr&theme=dark"></td><td width="50%" align="center">
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=cykorr&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+sorry for data privacy reasons, i don't really give out my name, but here's my email if that helps! 
+
+pyk0rr@gmail.com</p>
