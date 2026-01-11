@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">From Hong Kong<br><br>- 📚 I suck at coding icl <br>- ⚡ In my free time I develop my website (WIP)</p>
+<p align="left">From Hong Kong<br><br>- absolutely ASS at coding, im learning though. <br>- ⚡ In my free time I try and look at others code and optimize it for my prefrence. </p>
 
 ###
 
